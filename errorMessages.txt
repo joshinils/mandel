@@ -1,0 +1,61 @@
+Fehler	1	error C2864: "olc::Pixel::n": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	188
+Fehler	2	error C2864: "olc::HWButton::bPressed": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	224
+Fehler	3	error C2864: "olc::HWButton::bReleased": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	225
+Fehler	4	error C2864: "olc::HWButton::bHeld": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	226
+Fehler	5	error C2864: "olc::Sprite::width": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	245
+Fehler	6	error C2864: "olc::Sprite::height": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	246
+Fehler	7	error C2864: "olc::Sprite::pColData": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	255
+Fehler	8	error C2864: "olc::PixelGameEngine::pDefaultDrawTarget": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	355
+Fehler	9	error C2864: "olc::PixelGameEngine::pDrawTarget": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	356
+Fehler	10	error C2864: "olc::PixelGameEngine::nPixelMode": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	357
+Fehler	11	error C2864: "olc::PixelGameEngine::fBlendFactor": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	358
+Fehler	12	error C2864: "olc::PixelGameEngine::nScreenWidth": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	359
+Fehler	13	error C2864: "olc::PixelGameEngine::nScreenHeight": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	360
+Fehler	14	error C2864: "olc::PixelGameEngine::nPixelWidth": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	361
+Fehler	15	error C2864: "olc::PixelGameEngine::nPixelHeight": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	362
+Fehler	16	error C2864: "olc::PixelGameEngine::nMousePosX": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	363
+Fehler	17	error C2864: "olc::PixelGameEngine::nMousePosY": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	364
+Fehler	18	error C2864: "olc::PixelGameEngine::bHasInputFocus": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	365
+Fehler	19	error C2864: "olc::PixelGameEngine::fFrameTimer": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	366
+Fehler	20	error C2864: "olc::PixelGameEngine::nFrameCount": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	367
+Fehler	21	error C2864: "olc::PixelGameEngine::fontSprite": Nur statische konstante integrale Datenmember können innerhalb einer Klasse initialisiert werden.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	368
+Fehler	22	error C2473: "pKeyNewState": Sieht wie eine Funktionsdefinition aus, weist jedoch keine Parameterliste auf.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	371
+Fehler	23	error C2059: Syntaxfehler: 'Konstante'	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	371
+Fehler	24	error C2143: Syntaxfehler: Es fehlt ';' vor '}'	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	371
+Fehler	25	error C2238: Unerwartete(s) Token vor ';'	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	371
+Fehler	26	error C2470: "pKeyOldState": Sieht wie eine Funktionsdefinition aus, es ist aber keine Parameterliste vorhanden; sichtbarer Funktionstext wird übersprungen.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	372
+Fehler	27	error C2470: "pMouseNewState": Sieht wie eine Funktionsdefinition aus, es ist aber keine Parameterliste vorhanden; sichtbarer Funktionstext wird übersprungen.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	375
+Fehler	28	error C2470: "pMouseOldState": Sieht wie eine Funktionsdefinition aus, es ist aber keine Parameterliste vorhanden; sichtbarer Funktionstext wird übersprungen.	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	376
+Fehler	29	error C2059: Syntaxfehler: '}'	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	419
+Fehler	30	error C2143: Syntaxfehler: Es fehlt ';' vor '}'	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	419
+Fehler	31	error C2143: Syntaxfehler: Es fehlt ';' vor '{'	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	443
+Fehler	32	error C2447: '{': Funktionsheader fehlt - Parameterliste im alten Stil?	c:\users\joshua\documents\git\pixel\olcpixelgameengine.h	443
+	33	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	188
+	34	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	224
+	35	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	225
+	36	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	226
+	37	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	245
+	38	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	246
+	39	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	255
+	40	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	355
+	41	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	356
+	42	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	357
+	43	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	358
+	44	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	359
+	45	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	360
+	46	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	361
+	47	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	362
+	48	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	363
+	49	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	364
+	50	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	365
+	51	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	366
+	52	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	367
+	53	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	368
+	54	IntelliSense: Es wurde ein ";" erwartet.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	371
+	55	IntelliSense: Es wurde ein ";" erwartet.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	372
+	56	IntelliSense: Es wurde ein ";" erwartet.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	375
+	57	IntelliSense: Es wurde ein ";" erwartet.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	376
+	58	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	380
+	59	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	381
+	60	IntelliSense: Ein Datenmemberinitialisierer ist nicht zulässig.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	401
+	61	IntelliSense: Es wurde ein ";" erwartet.	c:\Users\Joshua\Documents\Git\pixel\olcPixelGameEngine.h	1600
